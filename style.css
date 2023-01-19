@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.box {
+  padding: 10px;
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+  font-size: 0.7em;
+}
+
+.box:hover {
+  cursor: pointer;
+}
+
+.box > div {
+  border: 1px solid #ddd;
+  padding: 10px;
+  overflow: hidden;
+}
+
+.box img {
+  width: 100%;
+}
