@@ -1,6 +1,6 @@
 # 5-Random-User-Generator-API
 
-In this project I connect to RandomUser Generator API and using fetching data. This is an API that generqates dummy data.
+In this project I connect to RandomUser Generator API and using for fetching data. This is an API that generqates dummy data.
 
 This application is going to be dynamic where I can select the number of users that I want to return. 
 
